@@ -1,0 +1,159 @@
+.body {
+    background-color: black;
+}
+*{
+font-family: 'Rosarivo';
+}
+.PageHeader {
+    color: #EFE3C8;
+    position: absolute;
+    width: 200px;
+    left: 50%;
+    
+    font-size: 25px;
+transform: translateX(50%);
+}
+.Back{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+top: 27px;
+
+}
+.Top_page{
+    position: absolute;
+    top: -1rem;
+
+}
+
+.Text{
+    color: #EFE3C8;
+    position: relative;
+    top: 50px;
+    font-family: 'Rosarivo';
+font-size: 20px;
+
+}
+.googlepay{
+  background-color:rgb(41, 40, 40); 
+  position: relative;
+  top: 50px;
+  height: 80px;
+  width: 100%;
+  border-radius: 20px;
+
+ 
+ 
+}
+.glogo{
+    width: 30px;
+    height: 20px;
+    position: fixed;
+    top: 155px;
+    border-radius: 20px;
+    left: 20px;
+}
+.GoogleText{
+    color: white;
+    position: relative;
+    left: 55px;
+    top: 26px;
+    font-size: 20px;
+
+}
+.empty1{
+    background-color:rgb(41, 40, 40); 
+  position: relative;
+  margin-top:10px;
+  top: 50px;
+  height: 80px;
+  width: 100%;
+  border-radius: 20px;
+}
+.empty3{
+    background-color:rgb(41, 40, 40); 
+  position: relative;
+    margin-top:10px;
+  top: 30px;
+  height: 80px;
+  width: 100%;
+  border-radius: 20px;
+}
+.empty4{
+    background-color:rgb(41, 40, 40); 
+  position: relative;
+    margin-top:10px;
+  top: 30px;
+  height: 80px;
+  width: 100%;
+  border-radius: 20px;
+}
+.bottom{
+    position: fixed;
+    top: 800px;
+}
+.btnConfirm{
+    position: fixed;
+    left: 70px;
+    top: 820px;
+    width: 300px;
+    height: 60px;
+    color: black;
+    background-color: #EFE3C8;
+    border-radius: 10px;
+    font-size: 20px;
+    
+
+}
+.workadd{
+      background-color:rgb(41, 40, 40); 
+  position: relative;
+  top: 100px;
+  height: 80px;
+  width: 100%;
+  border-radius: 20px;
+}
+.work{
+    position: relative;
+    top: 16px;
+    left: 10px;
+    width: 35px;
+}
+.reci1, .reci2{
+    color: #d3d3d3;
+    position: relative;
+    left: 60px;
+    top: -70px;
+    font-size: 25px;
+}
+.add, .h_add{
+color: #d3d3d3;
+display: flex;
+position: relative;
+left: 65px;
+top: -100px;
+}
+.homeadd{
+     background-color:rgb(41, 40, 40); 
+  position: relative;
+  top: -75px;
+  height: 80px;
+  width: 100%;
+  border-radius: 20px;
+}
+.home{
+    display: flex;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+.conmess{
+    background-color:#201520;  
+    position: absolute;
+    display: flex;
+    top: -350px;
+    width: 90%;
+    height: 400%;
+    left: 20px;
+
+}
